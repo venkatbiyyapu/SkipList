@@ -1,24 +1,7 @@
-/**
-
-Long Project 3 LP Group 19: Folder: VXB220005
-
-Below are the team member names and NET ID:
-
-Amulya Atluri / AXA210091
-Venkat Biyyapu / VXB220005
-Poojan Patel / PRP200000
-Batul Petiwala / BJP210000
-
-**/
-
-package VXB220005;
-
 import java.util.*;
 import java.util.Arrays;
 import java.util.Iterator;
 import java.util.Random;
-
-// Skeleton for skip list implementation.
 
 public class SkipList<T extends Comparable<? super T>> {
     static final int maxLevel = 32;
