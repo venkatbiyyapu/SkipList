@@ -1,13 +1,8 @@
-
-package VXB220005;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Iterator;
 import java.util.Random;
 import java.util.Scanner;
-//import java.util.*;
-
-//Driver program for skip list implementation.
 
 public class SkipListDriver {
 	public static void main(String[] args) throws FileNotFoundException {
